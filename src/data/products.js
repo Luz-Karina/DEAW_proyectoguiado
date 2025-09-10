@@ -1,0 +1,72 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Vestido Floral de Verano',
+    price: 45.99,
+    description: 'Vestido ligero y fresco con estampado floral, ideal para días soleados.',
+    image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIxZl0vxJhMTxsL5lzws-wLJLzxRDhSOk4w&s',
+  },
+  {
+    id: 2,
+    name:'Blusa de Lino Blanca',
+    price: 29.50,
+    description: 'Blusa básica de lino, perfecta para combinar con cualquier prenda.',
+    image:'https://m.media-amazon.com/images/I/71ITomCz5ZL.jpg',
+  },
+  {
+     id: 3,
+    name:'Jeans Clásicos High-Waist',
+    price: 55.00,
+    description: 'Jeans de corte alto, cómodos y versátiles para el uso diario.',
+    image: 'https://m.media-amazon.com/images/I/71EkGBGslZL._UY1000_.jpg',
+  },
+  {
+    id: 4,
+    name: 'Sudadera con Capucha para Niña',
+    price: 32.75,
+    description: 'Sudadera suave y cómoda para niñas, con diseño de unicornio.',
+   image: 'https://images-na.ssl-images-amazon.com/images/I/61aPg4fGK5L._AC_UL600_SR600,600_.jpg',
+  },
+  {
+    id: 5,
+    name: 'Falda Tutú para Niña',
+    price: 25.00,
+    description: 'Falda de tul con brillos, ideal para fiestas y ocasiones especiales.',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScK0suxPl4xFgfTsnRW4-K0_j3kJ2iiG2Jg&s',
+  },
+  {
+  id: 6,
+  name: 'Pijama de Unicornio para Niña',
+  price: 28.50,
+  description: 'Conjunto de pijama de dos piezas con diseño de unicornios, suave y cómoda para una noche de sueños mágicos.',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklPwk1x7MBjUY9iJJHHUvCLb2M5wmZbdQMw&s',
+},
+{
+  id: 7,
+  name: 'Shorts de Jean',
+  price: 35.50,
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOJgxRgsD1sE9Tu9KbPqE45liX5jyy5q5mQ&s',
+  description: 'Shorts de jean de cintura alta. Un básico versátil y cómodo para cualquier ocasión.',
+},
+{
+  id: 8,
+  name: 'Top de Tirantes Básico',
+  price: 22.00,
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirWvEYikgMAHAoBIBqyMfJmpPBO4vOciWEA&s', 
+  description: 'Top de tirantes básico en algodón. Un esencial para combinar con cualquier prenda.',
+},
+{
+  id: 9,
+  name: 'Vestido para Niña',
+  price: 39.99,
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4a_uWbwb7GGCN5ApVBybYVxkIgrYs3GEO0Q&s', 
+  description: 'Vestido con falda de tul y detalles florales. Perfecto para cumpleaños o eventos especiales.',
+},
+{
+  id: 10,
+  name: 'Licras Deportivas de Compresión',
+  price: 45.00,
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJ969dR1xw1mqzDKeAPIYYhPxW3LKx_GhFg&s', 
+  description: 'Licras de alta compresión. Ideales para entrenamientos intensos, brindan soporte y comodidad.',
+}
+];
